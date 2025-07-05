@@ -1,5 +1,5 @@
 {
-    "name": "USD Coin",
+    "name": "USDC",
     "symbol": "USDC",
     "description": "USDC is a fully-backed US Dollar stablecoin issued by regulated financial institutions.",
     "image": "https://raw.githubusercontent.com/saru-23/spl-token-metadata/main/program-examples/tokens/.assets/usdc.png",
